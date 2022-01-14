@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
 .imagem-carrossel-um {
     object-fit: cover;
     object-position: 0 60%;
@@ -7,4 +9,8 @@
     object-fit: cover;
     /* object-position: 0 60%; */
     height: 500px;
+}
+
+.titulo-banner {
+    font-family: 'Pacifico', cursive;
 }
