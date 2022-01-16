@@ -14,3 +14,12 @@
 .titulo-banner {
     font-family: 'Pacifico', cursive;
 }
+
+.subtitulo-cor {
+    color: darkred;
+}
+
+.subtitulo-p {
+    font-weight: bold;
+    color: gray;
+}
