@@ -23,3 +23,12 @@
     font-weight: bold;
     color: gray;
 }
+
+.botao-bg {
+    background-color: darkred;
+    color: white;
+}
+
+.borda-card {
+    border-color: darkred;
+}
