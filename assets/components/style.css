@@ -32,3 +32,13 @@
 .borda-card {
     border-color: darkred;
 }
+
+.imagem-card {
+    object-fit: cover;
+    width: 18rem;
+    height: 200px;
+}
+
+.wrap-card {
+    max-width: 18.1rem;
+}
