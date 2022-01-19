@@ -32,7 +32,7 @@
               <a class="nav-link" href="#">Quem somos</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Contato</a>
+              <a class="nav-link" data-bs-toggle="modal" data-bs-target="#modal-contato" href="#">Contato</a>
             </li>
           </ul>
         </div>
@@ -131,6 +131,36 @@
     </section>
 
   </main>
+
+  <!-- MODAL -->
+  <div class="modal fade" id="modal-contato" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="exampleModalLabel">Fale conosco</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <div class="mb-3">
+            <label for="formGroupExampleInput" class="form-label">Nome</label>
+            <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Insira seu nome">
+          </div>
+          <div class="mb-3">
+            <label for="exampleFormControlInput1" class="form-label">Email</label>
+            <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="exemplo@email.com">
+          </div>
+          <div class="mb-3">
+            <label for="exampleFormControlTextarea1" class="form-label">Deixe seu comentário</label>
+            <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+          </div>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Fechar</button>
+          <button type="button" class="btn botao-bg">Enviar</button>
+        </div>
+      </div>
+    </div>
+  </div>
 
   <p>contato:<a href="mailto:email@frutafruto.com.br">email@frutafruto.com.br</a></p>
 
