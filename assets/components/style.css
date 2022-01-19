@@ -42,3 +42,8 @@
 .wrap-card {
     max-width: 18.1rem;
 }
+
+.text-footer {
+    color: white;
+    text-decoration: none;
+}
