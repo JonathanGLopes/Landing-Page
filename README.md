@@ -1,8 +1,10 @@
 # Landing-Page
 
-Página desenvolvida com objetivo de aprendizado sobre Bootstrap
+### Descrição
 
-Fonte utilizada: Pacifico - 400
+- Página desenvolvida com objetivo de aprendizado sobre Bootstrap
+
+### Capturas de tela
 
 Versão Desktop:
 ![desktop](https://user-images.githubusercontent.com/93101033/152265842-f9958e28-4c0d-4592-a7b5-10b4eb14aadf.png)
@@ -17,3 +19,5 @@ Versão Mobile:
 Menu: 
 
 ![menu](https://user-images.githubusercontent.com/93101033/152266263-9407470d-f50a-4e87-b133-9fae16c8d315.png)
+
+Fonte utilizada: Pacifico - 400
